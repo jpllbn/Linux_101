@@ -1,5 +1,14 @@
-# Linux_101
- 
+---
+title: Linux Roadmap (Beginner to Expert)
+updated: 2024-03-09 08:21:09Z
+created: 2024-03-09 08:07:48Z
+latitude: 14.55472900
+longitude: 121.02444520
+altitude: 0.0000
+---
+
+# Linux Roadmap (Beginner to Expert)
+
 ## **Syllabus:**
 
 ==**Introduction to Linux**==
