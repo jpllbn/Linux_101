@@ -2,85 +2,85 @@
  
 ## **Syllabus:**
 
-==**Introduction to Linux**==
+**[Introduction to Linux](Linux\IntroductiontoLinux.md)**
 
 - Overview of Linux history and distributions
 - Basic Linux commands: ls, cd, pwd, mkdir, rmdir
 - Introduction to the file system hierarchy
 
-==**Working with Files and Directories**==
+**[Working with Files and Directories](Linux\WorkingwithFilesandDirectories.md)**
 
 - Basic file operations: touch, cp, mv, rm
 - Viewing file contents: cat, less, head, tail
 - Understanding file permissions: chmod, chown
 
-==**Navigating the Command Line Interface**==
+**[Navigating the Command Line Interface](Linux\NavigatingtheCommandLineInterface.md)**
 
 - Shell basics: understanding shells (bash, zsh, etc.), environment variables
 - Command-line shortcuts and tricks
 - Working with multiple terminals and screen sessions
 
-**==Managing Users and Permissions==**
+**[Managing Users and Permissions](Linux\ManagingUsersandPermissions.md)**
 
 - User management: useradd, userdel, usermod
 - Group management: groupadd, groupdel, groupmod
 - Understanding permissions: file ownership, permissions, and ACLs
 
-==**System Administration Basics**==
+**[System Administration Basics](Linux\SystemAdministrationBasics.md)**
 
 - Managing services: systemctl, service
 - Package management: apt, yum, dnf
 - Monitoring system resources: top, ps, df, free
 
-==**Network Configuration**==
+**Network Configuration**
 
 - Network basics: understanding IP addresses, subnets, and DNS
 - Configuring network interfaces: ifconfig, ip
 - Troubleshooting network issues: ping, traceroute, netstat
 
-==**Shell Scripting Basics**==
+**Shell Scripting Basics**
 
 - Introduction to shell scripting: writing and running simple scripts
 - Using variables, conditionals, and loops in scripts
 - Scripting best practices and debugging techniques
 
-**==Advanced File Operations==**
+**Advanced File Operations**
 
 - Working with archives: tar, gzip, unzip
 - Finding files: find, locate
 - Disk management: fdisk, mkfs, mount, umount
 
-==**System Security**==
+**System Security**
 
 - Understanding security principles: authentication, authorization, encryption
 - Securing SSH: configuring SSH keys, SSH hardening
 - Firewall management: iptables, ufw
 
-==**Advanced System Administration**==
+**Advanced System Administration**
 
 - Automating tasks with cron
 - Monitoring and logging: syslog, journalctl
 - Backup and recovery strategies
 
-**==Introduction to Networking Services==**
+**Introduction to Networking Services**
 
 - Setting up a web server: Apache, Nginx
 - Configuring DNS: BIND
 - Setting up a file server: NFS, Samba
 
-**==Containerization with Docker==**
+**Containerization with Docker**
 
 - Understanding containers and Docker architecture
 - Installing Docker and Docker Compose
 - Building and running containers
 
-==**Virtualization with VirtualBox**==
+**Virtualization with VirtualBox**
 
 - Introduction to virtualization
 - Installing and configuring VirtualBox
 - Creating and managing virtual machines
 
-==**Cloud Computing Basics**==
+**Cloud Computing Basics**
 
 - Overview of cloud computing concepts
 - Introduction to cloud providers: AWS, Azure, Google Cloud
